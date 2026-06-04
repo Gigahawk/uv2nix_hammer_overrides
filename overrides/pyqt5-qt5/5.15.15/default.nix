@@ -49,7 +49,7 @@ let
               qtserialport
               qtsvg
               qtwebchannel
-              qtwebengine
+              #qtwebengine
               qtwebsockets
               qtx11extras
               qtxmlpatterns
